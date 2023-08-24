@@ -5,5 +5,5 @@ On my free time, I enjoy creating data workflows to help gain insight into real-
 
 For work or other queries, you can find email me at yikuang5@gmail.com, or give me a ping on LinkedIn!
 
-Currently: ML Engineering in Trondheim, Norway 🇳🇴
+Currently: ML Engineering in Trondheim, Norway 🇳🇴 \n
 🕛 Previously: GPU accelerated Graph Analytics & Topic Modelling @ [Synthesis](https://home.synthesis.partners/)
