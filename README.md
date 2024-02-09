@@ -6,5 +6,5 @@ I am currently a student 🧑‍🎓 @ National University of Singapore (NUS) wo
 
 Connect with me at yikuang5@gmail.com, or give me a ping on [LinkedIn](https://www.linkedin.com/in/lohyikuang/)! 
 
-🕛 Currently: FT/PT Data Software Engineer working on Fuzzy Cognitive Maps @ [Synthesis](https://home.synthesis.partners/)
-⚡ Previously: ML Engineering Intern in Trondheim, Norway 🇳🇴\
+🕛 Currently: FT/PT Data Software Engineer working on Fuzzy Cognitive Maps @ [Synthesis](https://home.synthesis.partners/)\
+⚡ Previously: ML Engineering in Trondheim, Norway 🇳🇴
