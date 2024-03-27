@@ -7,5 +7,3 @@ Connect with me at yikuang5@gmail.com, or give me a ping on [LinkedIn](https://w
 
 🕛 Currently: FT/PT Data Software Engineer working on Fuzzy Cognitive Maps @ [Synthesis](https://home.synthesis.partners/)\
 ⚡ Previously: ML Engineering in Trondheim, Norway 🇳🇴
-
-Psst: Checkout my [Data Science Notes](https://yikuang.notion.site/Data-Science-d3a89420a77f454abd8f6feac68cb548?pvs=4)
