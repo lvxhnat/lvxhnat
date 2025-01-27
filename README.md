@@ -5,7 +5,7 @@ On my free time, I enjoy creating data workflows to help gain insight into real-
 
 Connect with me at yikuang5@gmail.com, or give me a ping on [LinkedIn](https://www.linkedin.com/in/lohyikuang/)
 
-Currently: Job Hunting 🏹
+Currently: Job Hunting 🏹\
 ⚡ Previously: 
 - FT/PT Data SWE working on Fuzzy Cognitive Maps @ [Synthesis](https://home.synthesis.partners/)
 - ML Engineering in Trondheim, Norway 🇳🇴
